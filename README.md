@@ -24,10 +24,6 @@ A simple calculator application built using Spring Boot. This project demonstrat
 - Spring Boot 3.0+
 - Maven 3.8+
 
-## Setup Instructions
-1. Clone the repository: git clone https://github.com/your-username/CalculatorApp.git
-2. Run in Intellij IDEA
-
 ## API Endpoints
 ### Basic Operations
 | Operation     | HTTP Method | Endpoint                    | Parameters       |
